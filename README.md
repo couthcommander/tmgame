@@ -1,16 +1,16 @@
 # Time Machine card game
 
-Time Machine is a card game supporting two or more players.  Each player should have their own 40-card deck, available for purchase at [DriveThruCards][http://www.drivethrurpg.com/product/229995/Time-Machine].
+Time Machine is a card game supporting two or more players.  Each player should have their own 40-card deck, available for purchase at [DriveThruCards](http://www.drivethrurpg.com/product/229995/Time-Machine).
 
-Some images were taken and modified from [openclipart][https://openclipart.org/share].  All of these are used with permission through the Creative Commons Zero 1.0 Public Domain License.
+Some images were taken and modified from [openclipart](https://openclipart.org/share).  All of these are used with permission through the Creative Commons Zero 1.0 Public Domain License.
 
-This README is the official documentation, available on [GitHub][https://github.com/couthcommander/tmgame].
+This README is the official documentation, available on [GitHub](https://github.com/couthcommander/tmgame).
 
 ## Detailed Game Instructions
 
 Each game is made up of eight rounds.  The goal is to complete a time machine.
 
-If you have any questions or comments, please create an [issue][https://github.com/couthcommander/tmgame/issues].
+If you have any questions or comments, please create an [issue](https://github.com/couthcommander/tmgame/issues).
 
 ## Example Layout
 
